@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/rating-portal-gui.iml" filepath="$PROJECT_DIR$/.idea/rating-portal-gui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/frontend-template.iml" filepath="$PROJECT_DIR$/.idea/frontend-template.iml" />
     </modules>
   </component>
 </project>
